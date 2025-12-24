@@ -189,5 +189,5 @@ git push origin main
 
 ---
 
-## Author
+## Author - Alfatah Jalalludin
 DevOps portfolio project demonstrating AWS ECS, Terraform, and CI/CD best practices.
